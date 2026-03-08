@@ -4,6 +4,10 @@ Una semplice e intuitiva applicazione web per visualizzare le condizioni meteoro
 
 Questo progetto unisce l'interfaccia utente alla programmazione asincrona in JavaScript, permettendo di interrogare un'API meteo esterna e aggiornare il DOM dinamicamente con i risultati ottenuti.
 
+## 🚀 Demo
+
+Puoi visualizzare il progetto live qui: [[Link alla Demo]](https://aledev2026.github.io/WeatherApp/)
+
 ## 🚀 Caratteristiche
 
 - **Ricerca per Città:** Inserisci il nome di una città per ottenere i dati meteo aggiornati istantaneamente.
